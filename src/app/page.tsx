@@ -23,6 +23,7 @@ export default function Home() {
           <li className="tracking-[-.01em]">
             Anastasija says: Save and see your changes instantly.
           </li>
+          <li> Hello Prince and Malika</li>
         </ol>
 
         <div className="flex gap-4 items-center flex-col sm:flex-row">
